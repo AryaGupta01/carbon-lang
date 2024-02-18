@@ -11,7 +11,7 @@ SPDX-License-Identifier: Apache-2.0 WITH LLVM-exception
   <a href="#language-goals">Goals</a> |
   <a href="#project-status">Status</a> |
   <a href="#getting-started">Getting started</a> |
-  <a href="#join-us">Join us</a>
+  <a href="#join-us">Join Us</a>
 </p>
 
 **See our [announcement video](https://youtu.be/omrY53kbVoA) from
